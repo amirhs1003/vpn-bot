@@ -1,4 +1,4 @@
 python-telegram-bot
 requests
+urllib3
 qrcode
-Pillow
